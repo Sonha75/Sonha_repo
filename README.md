@@ -1,2 +1,1 @@
-# Sonha_repo
-repo dau tien
+Repo of starter 2024 LIDP 
